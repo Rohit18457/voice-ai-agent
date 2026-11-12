@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets (CRITICAL: Never commit real API keys!)
+.env
+*.env
+!.env.example
+
+# Temporary audio files & recordings
+*.wav
+*.mp3
+*.pcm
+recordings/
+audio_cache/
+
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
