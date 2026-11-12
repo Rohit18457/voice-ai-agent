@@ -72,3 +72,4 @@ class TextToSpeechEngine:
             return [v.name for v in voices]
         except Exception:
             return []
+

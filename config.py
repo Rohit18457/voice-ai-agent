@@ -32,3 +32,4 @@ Guidelines for your responses:
 - Avoid bullet points, code blocks, or markdown tables unless specifically asked, as your response will be read aloud to the user.
 - If the user asks for code or long explanations, summarize the key concept verbally first.
 """
+

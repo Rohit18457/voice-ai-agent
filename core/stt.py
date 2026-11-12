@@ -53,3 +53,4 @@ class SpeechToTextEngine:
         except Exception as e:
             logger.error(f"Unexpected audio capture error: {e}")
             return None
+

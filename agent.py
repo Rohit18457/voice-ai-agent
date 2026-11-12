@@ -57,3 +57,4 @@ class VoiceAgent:
         return clean in self.EXIT_KEYWORDS or any(
             clean.startswith(kw) for kw in ["please exit", "please stop", "say goodbye"]
         )
+

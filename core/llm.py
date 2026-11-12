@@ -64,3 +64,4 @@ class ConversationalAgent:
     def get_history(self) -> List[Dict[str, str]]:
         """Return current conversation messages."""
         return list(self.messages)
+
